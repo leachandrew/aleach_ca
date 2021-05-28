@@ -12,7 +12,7 @@ text_align_left: true
 title: Andrew Leach
 type: home
 images:
-  - img/leach_headshot.jpg
+  - img/leach_headshot_small.jpg
 image_left: true
 image_credit: test
 ---
