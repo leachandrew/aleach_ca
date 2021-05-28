@@ -1,0 +1,27 @@
+---
+## Configure page content in wide column
+title: "About Andrew Leach" # leave blank to exclude
+number_featured: 1 # pulling from mainSections in config.toml
+use_featured: false # if false, use most recent by date
+number_categories: 3 # set to zero to exclude
+---
+
+[Headshot](http://andrewleach.ca/wp-content/uploads/2019/05/UofA_SOB_Headshots_010419_HR-279.jpg)
+
+
+**Long bio:**
+
+Andrew Leach is an energy and environmental economist and is Associate Professor at the Alberta School of Business at the University of Alberta.  He has a Ph.D. in Economics from Queen's University, and a B.Sc (Environmental Sciences) and M.A. (Economics) from the University of Guelph and recently completed an L.L.M. from the Faculty of Law at the University of Alberta which will be conferred in 2021.  His research spans energy and environmental economics with a particular interest in climate change policies and the law. Outside of work hours, his free time is spent with his two kids, Will (12) and Caroline (11), as well as cycling and arguing on Twitter.
+
+**Short bio:**
+
+Andrew Leach is an energy and environmental economist and is Associate Professor at the Alberta School of Business at the University of Alberta.  His research spans energy and environmental economics with a particular interest in climate change policies and the law.
+
+
+[University of Alberta Directory Page](https://apps.ualberta.ca/directory/person/aleach)
+
+
+[Academic CV](https://drive.google.com/file/d/0B4MfHt9adA0YUkxHcllMelVDS1k/view)
+
+
+[Conflict of Interest Disclosure](http://andrewleach.ca/conflict-of-interest-disclosure/)
