@@ -11,6 +11,10 @@ description: 'This website is under development and serves as a repository for t
 text_align_left: true
 title: Andrew Leach
 type: home
+images:
+  - img/leach_headshot.jpg
+image_left: true
+image_credit: test
 ---
 
 ** index doesn't contain a body, just front matter above.
