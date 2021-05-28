@@ -8,7 +8,7 @@ event: Edmonton Airport Authority Management Team
 event_url: https://flyeia.com
 excerpt: 
 featured: true
-layout: single
+layout: standard
 location: Edmonton, AB
 show_post_time: false
 subtitle: 'A tale of 5 shocks: oil, COVID, lock-down, the budget and Biden'

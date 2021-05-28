@@ -3,6 +3,7 @@ author: Andrew Leach
 cascade:
   show_comments: false
   show_post_date: true
+  show_post_time: false
 description: |
   All public talks, workshops, etc. listed here. Where slides or code is available, it's also provided.
 title: Talks
