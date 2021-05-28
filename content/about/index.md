@@ -6,9 +6,20 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 ---
 
-[High-resolution headshot](/img/leach_headshot.jpg)
 
-![](/img/leach_headshot_small.jpg)
+<style>
+img.two {
+  height: 80%;
+  width: 80%;
+}
+</style>
+</head>
+<body>
+
+
+<img class="two" src="/img/leach_headshot_small.jpg" alt="drawing"/>
+
+Click[here](/img/leach_headshot.jpg)  for high-resolution version. Photo credit: [Alex Tetrault](https://www.instagram.com/tetreaultaj/?hl=en).
 
 **Long bio:**
 
