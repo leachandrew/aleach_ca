@@ -6,8 +6,9 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 ---
 
-[Headshot](http://andrewleach.ca/wp-content/uploads/2019/05/UofA_SOB_Headshots_010419_HR-279.jpg)
+[High-resolution headshot](/img/leach_headshot.jpg)
 
+![](/img/leach_headshot_small.jpg)
 
 **Long bio:**
 
