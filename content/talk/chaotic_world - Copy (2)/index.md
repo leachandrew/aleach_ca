@@ -12,6 +12,6 @@ layout: single
 location: Edmonton, AB
 show_post_time: false
 subtitle: 'A tale of 5 shocks: oil, COVID, lock-down, the budget and Biden'
-title: Alberta in a turbulent world
+title: Alberta in a chaotic world
 ---
 

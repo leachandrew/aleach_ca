@@ -2,7 +2,6 @@
 action_label: More about me &rarr;
 action_link: /about
 action_type: text
-description: Academic site placeholder.
 image_left: false
 show_action_link: true
 show_social_links: true
