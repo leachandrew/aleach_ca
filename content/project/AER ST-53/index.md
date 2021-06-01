@@ -11,7 +11,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://aleach.ca/st_53.html
+  url: https://st53.aleach.ca/st_53.html
 - icon: github
   icon_pack: fab
   name: code
