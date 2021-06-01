@@ -1,11 +1,10 @@
 ---
 date: "2019-12-30"
-show_post_date: false
 draft: false
 excerpt: Archive of my substantive blog posts from 2011-2019
 layout: single
 weight: 3
-title: Rescuing the Frog Blog Archives
+subtitle: Rescuing the Frog Blog
 ---
 ##### Dec 30, 2019<br>[Facts matter](http://andrewleach.ca/uncategorized/facts-matter/)
 ##### Jun 18, 2019<br>[To whom is Jason Kenney selling a bill of goods on Energy East?](http://andrewleach.ca/uncategorized/to-whom-is-jason-kenney-selling-a-bill-of-goods-on-energy-east/)

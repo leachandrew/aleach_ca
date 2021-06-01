@@ -1,11 +1,10 @@
 ---
 date: "2019-04-08"
-show_post_date: false
 draft: false
-title: "Maclean's Opinion Archive"
 excerpt: Archive of my Maclean's contributions, 2013-2019
 layout: single
 weight: 3
+subtitle: Maclean's
 ---
 
 ###### Apr 8, 2019

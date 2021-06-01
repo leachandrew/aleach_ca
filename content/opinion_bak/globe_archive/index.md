@@ -1,10 +1,10 @@
 ---
 date: "2021-01-01"
-show_post_date: false
 draft: false
 excerpt: Archive of my Globe and Mail contributions, 2011-2021
-title: Globe and Mail Opinion Archive
+subtitle: ""
 layout: single
+subtitle: Globe and Mail
 weight: 7
 ---
 ##### Dec 4, 2020
