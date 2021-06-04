@@ -3,7 +3,7 @@ author: Andrew Leach
 categories:
 - R
 - data
-date: "2021-06-04"
+date: "2021-05-27"
 draft: false
 excerpt: Github page for Canada's National Inventory Report (NIR) graphs
 layout: single
