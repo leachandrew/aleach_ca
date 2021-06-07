@@ -47,7 +47,6 @@ params:
   navallcaps: yes
   orgLocal: Edmonton, AB
   orgName: Andrew Leach
-  sharing_image: /img/papillons.jpg
   social:
     - icon: github
       icon_pack: fab
