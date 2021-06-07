@@ -44,7 +44,7 @@ Leach, Andrew and Trevor Tombe. (2016) [Power play: The termination of Alberta�
 
 
 ### [Alberta's SGER](https://heinonline.org/HOL/LandingPage?handle=hein.journals/cdntj60&div=54&id=&page=)
-Leach, Andrew. (2012) [Alberta’s *Specified Gas Emitters Regulation*](https://heinonline.org/HOL/LandingPage?handle=hein.journals/cdntj60&div=54&id=&page=), Canadian Tax Journal 60(4), pages 881-898.
+Leach, Andrew. (2012) [Alberta’s *Specified Gas Emitters Regulation*](https://heinonline.org/HOL/LandingPage?handle=hein.journals/cdntj60&div=54&id=&page=), *Canadian Tax Journal* 60(4), pages 881-898.
 
 ### [Cycles in non-renewable resource prices](https://doi.org/10.1016/j.jedc.2012.04.005)
 Chakravorty, Ujjayant, Andrew Leach, and Michel Moreaux. (2012) [Cycles in nonrenewable resource prices with
