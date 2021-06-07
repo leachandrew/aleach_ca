@@ -41,9 +41,7 @@ params:
     - blog
     - publications
     - project
-    - teaching
     - opinion
-    - talk
   navallcaps: yes
   orgLocal: Edmonton, AB
   orgName: Andrew Leach
@@ -109,10 +107,6 @@ menu:
       title: Opinion
       url: /opinion/
       weight: 6
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 7
 privacy:
   disqus:
     disable: no
