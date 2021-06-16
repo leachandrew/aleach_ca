@@ -11,11 +11,11 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://aleach.ca/eia_data.html
+  url: https://leachandrew.github.io/cali_crude/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://leachandrew.github.io/cali_crude/
+  url: https://github.com/leachandrew/cali_crude
 subtitle: Cali Crude Data Project
 tags:
 - hugo-site
