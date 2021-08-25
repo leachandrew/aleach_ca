@@ -103,6 +103,10 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 4
+    - name: Teaching
+      title: Teaching
+      url: http://buec311.aleach.ca
+      weight: 5
     - name: Opinion
       title: Opinion
       url: /opinion/
