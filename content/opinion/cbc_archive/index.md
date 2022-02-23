@@ -23,13 +23,13 @@ weight: 7
 ##### July 30, 2020 
 [Alberta's TIER regulations good on electricity, not so good on oilsands](https://www.cbc.ca/news/canada/calgary/alberta-emissions-regulations-tier-andrew-leach-1.5339703)
 
-#October 30, 2019
+##### October 30, 2019
 [Election 2019: A national reckoning on climate change](https://www.cbc.ca/news/canada/calgary/election-2019-climate-change-andrew-leach-1.5321425)
 
-#October 16, 2019 
+##### October 16, 2019 
 [Liberals' climate balancing act: The world is watching](https://www.cbc.ca/news/canada/calgary/road-ahead-liberal-party-climate-plan-andrew-leach-1.5295477)
 
-#September 25, 2019
+##### September 25, 2019
 [NDP climate plan tries (and fails) to carve out middle ground](https://www.cbc.ca/news/canada/calgary/ndp-climate-plan-andrew-leach-1.5276006)
 
 ##### September 13, 2019 
