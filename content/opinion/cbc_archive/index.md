@@ -2,66 +2,41 @@
 date: "2021-01-01"
 show_post_date: false
 draft: false
-excerpt: Archive of my Globe and Mail contributions, 2011-2021
-title: Globe and Mail Opinion Archive
+excerpt: Archive of my CBC Opinion contributions, 2018-2021
+title: CBC Opinion Archive
 layout: single
 weight: 7
 ---
-##### Dec 4, 2020
-[Alberta's oil-pipeline pipeline might be nearing its end](https://www.theglobeandmail.com/opinion/article-albertas-oil-pipeline-pipeline-might-be-nearing-its-end/)
+##### April 22, 2021
+[Supreme Court carbon tax ruling: The last ride of the resistance?](https://www.cbc.ca/news/canada/calgary/road-ahead-scoc-carbon-tax-decision-andrew-leach-1.5964466)
 
-##### February 28, 2020
-[The symbolic meanings -- and literal death -- of Teck's Frontier mine project](https://www.theglobeandmail.com/opinion/article-the-symbolic-meanings-and-literal-death-of-tecks-frontier-mine/)
+##### March 29, 2021
+[On COVID-19, Jason Kenney refuses to take responsibility](https://www.cbc.ca/news/canada/calgary/road-ahead-alberta-covid-19-jason-kenney-responsibility-1.5795852)
 
-##### November 14, 2017
-[Why Alberta should commit to a Keystone XL contract](https://www.theglobeandmail.com/report-on-business/rob-commentary/why-alberta-should-commit-to-a-keystone-xl-contract/article36977103/)
+##### November 10, 2020
+[This 'Bitumen Boondoggle' is costing Alberta taxpayers billions](https://www.cbc.ca/news/canada/calgary/alberta-bitumen-sturgeon-refinery-nwrp-1.5718044)
 
-##### October 9, 2017
-[How Donald Trump killed the Energy East pipeline](https://www.theglobeandmail.com/report-on-business/rob-commentary/how-donald-trump-killed-the-energy-east-pipeline/article36527153/)
-
-
-##### April 24, 2017
-[Is Justin Trudeau a hypocrite on climate change?](https://www.theglobeandmail.com/report-on-business/rob-commentary/is-justin-trudeau-a-hypocrite-on-climate-change/article34797080/)
-
-##### October 6, 2016
-[The challenges ahead for Liberals' carbon plan](https://www.theglobeandmail.com/opinion/the-challenges-ahead-for-liberals-carbon-plan/article32266670/)
+##### September 14, 2020
+[The fiasco that is Alberta's energy 'war room'](https://www.cbc.ca/news/canada/calgary/alberta-canadian-energy-centre-war-room-fiasco-1.5665926)
 
 
-##### May 22, 2015
-[Government scientists should speak freely -- sometimes](https://www.theglobeandmail.com/opinion/government-scientists-should-speak-freely-sometimes/article24552056/), with Michael Rennie. 
+##### July 30, 2020 
+[Alberta's TIER regulations good on electricity, not so good on oilsands](https://www.cbc.ca/news/canada/calgary/alberta-emissions-regulations-tier-andrew-leach-1.5339703)
 
-##### Apr 17, 2015
-[Cap and trade an opportunity for Alberta](https://www.theglobeandmail.com/news/alberta/albertas-moment-has-arrived-but-will-it-bother-to-seize-it/article24016540/)
+#October 30, 2019
+[Election 2019: A national reckoning on climate change](https://www.cbc.ca/news/canada/calgary/election-2019-climate-change-andrew-leach-1.5321425)
 
-##### Jan 22, 2015
-[Alberta cannot just sit and wait for the next oil boom](https://www.theglobeandmail.com/news/alberta/alberta-cannot-just-sit-and-wait-for-the-next-oil-boom/article22595155/)
+#October 16, 2019 
+[Liberals' climate balancing act: The world is watching](https://www.cbc.ca/news/canada/calgary/road-ahead-liberal-party-climate-plan-andrew-leach-1.5295477)
 
-##### Dec 11, 2014
-[Build refineries with money, not bitumen](https://www.theglobeandmail.com/news/alberta/build-refineries-with-money-not-bitumen/article22057760/)
+#September 25, 2019
+[NDP climate plan tries (and fails) to carve out middle ground](https://www.cbc.ca/news/canada/calgary/ndp-climate-plan-andrew-leach-1.5276006)
 
-##### Nov 13, 2014
-[Time for straight talk on greenhouse gas emissions in Alberta](https://www.theglobeandmail.com/news/alberta/time-for-straight-talk-on-greenhouse-gas-emissions-in-alberta/article21583346/)
+##### September 13, 2019 
+[What's really holding back the oilsands? It's not the bill of goods you're being sold](https://www.cbc.ca/news/canada/calgary/road-ahead-oilsands-future-andrew-leach-1.5268556)
 
-##### Oct 17, 2014
-[In the oil sands, this is not the time to panic](https://www.theglobeandmail.com/opinion/in-the-oil-sands-this-is-not-the-time-to-panic/article21142053/)
+##### September 4, 2019
+[Greens' climate plan adds up to Mission: Improbable](https://www.cbc.ca/news/canada/calgary/green-party-climate-plan-mission-possible-andrew-leach-1.5220091)
 
-##### Dec 20, 2013
-[Three very different reasons people oppose Northern Gateway](https://www.theglobeandmail.com/opinion/the-three-very-different-reasons-people-oppose-northern-gateway/article16069972/)
-
-##### Dec 18, 2012
-[Economics of the oil sands: It's more than jobs and GDP](https://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/economics-of-the-oil-sands-its-more-than-jobs-and-gdp/article16003195/)
-
-#####  April 17, 2012
-[Should Alberta take a larger share of oil sands revenue?](https://www.theglobeandmail.com/report-on-business/economy/economy-lab/should-alberta-take-a-larger-share-of-oil-sands-revenue/article4103685/)
-
-##### Jan 12, 2012
-[Oil's value lies in profits, not costs](https://www.theglobeandmail.com/report-on-business/economy/economy-lab/oils-value-lies-in-profits-not-costs/article620680/)
-
-##### Dec 12, 2011
-[Who needs pipelines, the Oil Bucket Brigade is ready](https://www.theglobeandmail.com/report-on-business/economy/economy-lab/who-needs-pipelines-the-oil-bucket-brigade-is-ready/article619959/)
-
-##### Dec 7, 2011
-[The nuts and bolts of Kyoto withdrawal](https://www.theglobeandmail.com/report-on-business/economy/economy-lab/the-nuts-and-bolts-of-kyoto-withdrawal/article619868/)
-
-##### May 19, 2011
-[Peter Kent's 178 million-ton challenge. May 19, 2011.](https://www.theglobeandmail.com/report-on-business/economy/economy-lab/emissions-peter-kents-178-millon-ton-challenge/article621046/)
+##### August 12, 2019
+[Conservative climate plan is cloaked in mystery, choked with irony](https://www.cbc.ca/news/canada/calgary/conservative-party-climate-plan-andrew-leach-1.5240070)
