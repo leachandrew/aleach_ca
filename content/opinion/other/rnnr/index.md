@@ -12,3 +12,5 @@ links:
   name: RNNR Brief
   url: https://aleach.ca/opinion/other/rnnr/rnnr_brief.pdf
 ---
+
+[PDF](https://aleach.ca/opinion/other/rnnr/rnnr_brief.pdf) of my briefing (English) submitted to the [House of Commons Standing Committee on Natural Resources (RNNR)](https://www.ourcommons.ca/DocumentViewer/en/44-1/RNNR/meeting-9/notice) for testimony on the oil and gas cap. Speaking notes (check against delivery) are [here (PDF)](https://aleach.ca/opinion/other/rnnr/rnnr_speaking.pdf).
