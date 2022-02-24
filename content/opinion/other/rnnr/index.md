@@ -1,10 +1,10 @@
 ---
-date: "2022-02-28"
+date: "2022-02-22"
 draft: false
-excerpt: Canada must not commit to matching U.S. emissions, unless we’re prepared to have far more stringent policies
+excerpt: RNNR
 layout: single
-subtitle: We must not commit to matching U.S. emissions, unless we’re prepared to have far more stringent policies
-title: 'U.S. climate summit: Canada needs new and better policies, not another round of target bingo'
+subtitle: Briefing
+title: 'RNNR'
 weight: 3
 links:
 - icon: door-open
