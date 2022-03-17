@@ -87,7 +87,7 @@ menu:
       url: /contact/
       weight: 2
   header:
-    - name: About Test
+    - name: About
       title: About Andrew Leach
       url: /about/
       weight: 1
@@ -111,7 +111,7 @@ menu:
       title: Opinion
       url: /opinion/
       weight: 6
-      - name: Energy Charts
+    - name: Energy Charts
       title: Energy Charts
       url: https://leachandrew.github.io/weekly_charts/
       weight: 7
