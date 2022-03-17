@@ -114,7 +114,7 @@ menu:
       - name: Energy Charts
       title: Energy Charts
       url: https://leachandrew.github.io/weekly_charts/
-      weight: 6
+      weight: 7
 privacy:
   disqus:
     disable: no
