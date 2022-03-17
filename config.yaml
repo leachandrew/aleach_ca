@@ -111,6 +111,10 @@ menu:
       title: Opinion
       url: /opinion/
       weight: 6
+      - name: Energy Charts
+      title: Energy Charts
+      url: https://leachandrew.github.io/weekly_charts/
+      weight: 6
 privacy:
   disqus:
     disable: no
