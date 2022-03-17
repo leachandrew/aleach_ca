@@ -87,7 +87,7 @@ menu:
       url: /contact/
       weight: 2
   header:
-    - name: About
+    - name: About Test
       title: About Andrew Leach
       url: /about/
       weight: 1
