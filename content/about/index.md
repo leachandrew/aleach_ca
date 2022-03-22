@@ -30,6 +30,8 @@ Andrew Leach is an energy and environmental economist and is Associate Professor
 Andrew Leach is an energy and environmental economist and is Associate Professor at the Alberta School of Business at the University of Alberta.  His research spans energy and environmental economics with a particular interest in climate change policies and the law.
 
 
+[Resume](leach_resume.pdf)
+
 [University of Alberta Directory Page](https://apps.ualberta.ca/directory/person/aleach)
 
 
