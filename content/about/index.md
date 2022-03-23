@@ -23,7 +23,7 @@ Click[here](/img/leach_headshot.jpg)  for high-resolution version. Photo credit:
 
 **Long bio:**
 
-Andrew Leach is an energy and environmental economist and is Associate Professor at the Alberta School of Business at the University of Alberta.  He has a Ph.D. in Economics from Queen's University, and a B.Sc (Environmental Sciences) and M.A. (Economics) from the University of Guelph and recently completed an L.L.M. from the Faculty of Law at the University of Alberta which will be conferred in 2021.  His research spans energy and environmental economics with a particular interest in climate change policies and the law. Outside of work hours, his free time is spent with his two kids, Will (13) and Caroline (12), as well as cycling and arguing on Twitter.
+Andrew Leach is an energy and environmental economist and is Associate Professor at the Alberta School of Business at the University of Alberta.  He has a Ph.D. in Economics from Queen's University, and a B.Sc (Environmental Sciences) and M.A. (Economics) from the University of Guelph and recently completed an L.L.M. (Constitutional Law) from the Faculty of Law at the University of Alberta.  His research spans energy and environmental economics with a particular interest in climate change policies and the law. Outside of work hours, his free time is spent with his two kids, Will (13) and Caroline (12), as well as cycling and arguing on Twitter.
 
 **Short bio:**
 
