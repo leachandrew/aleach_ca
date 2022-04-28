@@ -35,7 +35,7 @@ Andrew Leach is an energy and environmental economist and is Associate Professor
 [University of Alberta Directory Page](https://apps.ualberta.ca/directory/person/aleach)
 
 
-[Academic CV](https://www.dropbox.com/s/073fu8mw0a6862t/cv_leach.pdf?dl=0)
+[Academic CV](cv_leach.pdf)
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=-as0RpQAAAAJ&view_op=list_works&sortby=pubdate)
