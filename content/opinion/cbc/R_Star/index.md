@@ -4,7 +4,7 @@ draft: false
 excerpt: "Alberta Premier Jason Kenney has done many things in government that would come as a great surprise to the Jasons Kenney of the past, but perhaps none so much as the decision to purchase a 50 per cent interest in the Sturgeon Refinery."
 layout: single
 subtitle: The Sturgeon Refinery Buyout Agreement
-title: "Why the Jasons Kenney of the past would thunder over Alberta's 'Bitumen Boondoggle'"
+title: "Danielle Smith has a big idea to clean up oil and gas wells. It's all kinds of messy"
 weight: 3
 links:
 - icon: door-open
