@@ -12,7 +12,6 @@ links:
   name: CBC version
   url: https://www.cbc.ca/news/canada/calgary/opinion-leach-danielle-smith-r-star-orphan-wells-oil-gas-1.6633643
 ---
-
 In a July 2021 op-ed in the Calgary Herald, Danielle Smith, then a business lobbyist with the Alberta Enterprise Group, advocated for a program called R-Star. It would provide royalty credits to oil and gas companies completing cleanup activities already required of them.
 While it appeared for a long time to be dead, R-Star has new life.
 
