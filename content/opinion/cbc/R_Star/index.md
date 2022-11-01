@@ -1,9 +1,9 @@
 ---
 date: "2022-10-30"
 draft: false
-excerpt: "Alberta Premier Jason Kenney has done many things in government that would come as a great surprise to the Jasons Kenney of the past, but perhaps none so much as the decision to purchase a 50 per cent interest in the Sturgeon Refinery."
+excerpt: "What is R-Star? It's a free lunch. Or, more properly, a lunch paid for by Albertans. It's a wealth transfer to the oil and gas industry. Instead of ensuring the polluter pays, R-Star would have us paying the polluter."
 layout: single
-subtitle: The Sturgeon Refinery Buyout Agreement
+subtitle: Smith pitched this royalty break as a lobbyist. It's back, now that she's premier
 title: "Danielle Smith has a big idea to clean up oil and gas wells. It's all kinds of messy"
 weight: 3
 links:
