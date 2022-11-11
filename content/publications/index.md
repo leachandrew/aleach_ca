@@ -4,12 +4,32 @@ title: Select Publications
 #description: |
 #  Academic publications and working papers
 ---
+### [Preparing for a mid-life crisis: Section 92A at 40](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262958)
+Bankes, Nigel and Andrew Leach (2023) [Preparing for a mid-life crisis: Section 92A at 40](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262958) *Alberta Law Review* 60(4), pages TBD. 
 
-### [*The No More Pipelines Act?*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857285)
-Leach, Andrew. (2021) [*The No More Pipelines Act?*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857285) *Alberta Law Review* 59(1), pages TBD.  
+### [Canada's Oil Sands in a Carbon-Constrained World](https://doi.org/10.1080/11926422.2022.2120508)
+Leach, Andrew. (2022). [Canada's Oil Sands in a Carbon-Constrained World](https://doi.org/10.1080/11926422.2022.2120508), *Canadian Foreign Policy Journal, published online, November 2022. [Pre-publication version](cfpj.pdf).
+
+
+### [Alberta's Renewable Electricity Program: Design, Results, and Lessons Learned](https://doi.org/10.1016/j.enpol.2022.113266)
+Hastings-Simon, Sara, Andrew Leach, Blake Shaffer and Tim Weis (2022) [Alberta's Renewable Electricity Program: Design, Results, and Lessons Learned](https://doi.org/10.1016/j.enpol.2022.113266), *Energy Policy*,
+Volume 171, December 2022, 113266. [Pre-publication version](rep.pdf).
+
+
+### [Alberta's quiet but resilient electricity transition](ben_chapter.pdf)
+Thibault, Benjamin, Tim Weis, and Andrew Leach (2023). [Alberta's quiet but resilient electricity transition](ben_chapter.pdf), accepted for publication in Mark S. Winfeld, Sustainable Energy Transitions in Canada; Challenges and Opportunities, UBC Press, 2023.[Pre-publication version](ben_chapter.pdf).
+
+### Academic Engagement within Canada's Climate Policy Network
+Leach, Andrew (forthcoming). Academic Engagement within Canada's Climate Policy Network" in Janis Sarra and Fenner Stewart eds., Reflections on Connecting Canada's Climate Policy Network, Canada Climate Law
+Initiative, 2023.
+
+### [Mapping The Evolution of Canada's Wind Energy Fleet](https://doi.org/10.1016/j.rser.2022.112690)
+Noel, William, Timothy M. Weis, Qiulin Yu, Andrew Leach and Brian Fleck. (2022) [Mapping The Evolution of Canada's Wind Energy Fleet](https://doi.org/10.1016/j.rser.2022.112690), *Renewable & Sustainable Energy Reviews* 167(112690), pages 1-10
+
+### [The No More Pipelines Act?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857285)
+Leach, Andrew. (2021) [The No More Pipelines Act?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857285) *Alberta Law Review* 59(1), pages 7-40.  
 
 ### GGPPA References Case Comment
-
 Bankes, Nigel, Andrew Leach and Martin Olszynski. (2021) Supreme Court of Canada Re-writes the National
 Concern Test and Upholds Federal Greenhouse Gas Legislation. A Comment on the References re Greenhouse
 Gas Pollution Pricing Act, 2021 SCC 11, *Energy Regulation Quarterly* 9(2), pages 27-57.
