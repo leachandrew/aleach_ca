@@ -42,6 +42,7 @@ params:
     - publications
     - project
     - opinion
+    - book
   navallcaps: yes
   orgLocal: Edmonton, AB
   orgName: Andrew Leach
@@ -66,6 +67,7 @@ params:
   textFontFamily: sans-serif
   theme: grayscale
   twitter: andrew_leach
+  github: leachandrew
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
@@ -105,16 +107,20 @@ menu:
       weight: 4
     - name: Teaching
       title: Teaching
-      url: http://buec311.aleach.ca
+      url: http://econ366.aleach.ca
       weight: 5
     - name: Opinion
       title: Opinion
       url: /opinion/
       weight: 6
+    - name: Between Doom and Denial
+      title: Between Doom and Denial
+      url: /book/
+      weight: 7
     - name: Energy Charts
       title: Energy Charts
       url: https://leachandrew.github.io/weekly_charts/
-      weight: 7
+      weight: 8
 privacy:
   disqus:
     disable: no

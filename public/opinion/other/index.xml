@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other publications on Andrew Leach</title>
+    <link>/opinion/other/</link>
+    <description>Recent content in Other publications on Andrew Leach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/opinion/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House of Commons Standing Committee on Natural Resources (RNNR) Testimony</title>
+      <link>/opinion/other/rnnr/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/opinion/other/rnnr/</guid>
+      <description>PDF of my briefing (English) submitted to the House of Commons Standing Committee on Natural Resources (RNNR) for testimony on the oil and gas cap. Speaking notes (check against delivery) are here (PDF).</description>
+    </item>
+    
+  </channel>
+</rss>

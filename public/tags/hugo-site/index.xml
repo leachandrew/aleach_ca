@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-site on Andrew Leach</title>
+    <link>/tags/hugo-site/</link>
+    <description>Recent content in hugo-site on Andrew Leach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EIA Annual Energy Outlook</title>
+      <link>/project/eia-aeo/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/eia-aeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada&#39;s Emissions Inventory and Projections</title>
+      <link>/project/nir/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AER ST-3 Scraper</title>
+      <link>/opinion_bak/code/aer-st-3/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/opinion_bak/code/aer-st-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AER ST-3 Scraper</title>
+      <link>/project/aer-st-3/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/aer-st-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AER ST-53 Scraper</title>
+      <link>/opinion_bak/code/aer-st-53/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/opinion_bak/code/aer-st-53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AER ST-53 Scraper</title>
+      <link>/project/aer-st-53/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/aer-st-53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberta Oil Sands Royalties</title>
+      <link>/project/alberta-oil-sands/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/alberta-oil-sands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>California Low Carbon Fuel Standard Crude Oil Data</title>
+      <link>/project/cali_crude/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cali_crude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada&#39;s Emissions Inventory and Projections</title>
+      <link>/opinion_bak/code/nir/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/opinion_bak/code/nir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EIA Commodities Data</title>
+      <link>/opinion_bak/code/eia_data/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/opinion_bak/code/eia_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EIA Commodities Data</title>
+      <link>/project/eia_data/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/eia_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EIA Short Term Energy Outlook</title>
+      <link>/project/eia-steo/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/eia-steo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
