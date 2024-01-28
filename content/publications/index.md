@@ -4,8 +4,12 @@ title: Select Publications
 #description: |
 #  Academic publications and working papers
 ---
+### [Green with Envy? Hydrogen production in a carbon-constrained world](https://doi.org/10.1016/j.enpol.2024.113982)
+Droessler, Mark and Andrew Leach, (2024) [Green with Envy? Hydrogen production in a carbon-constrained world](https://doi.org/10.1016/j.enpol.2024.113982), *Energy Policy*,
+Volume 186, January 2024, 113982. [Open-access publication](https://doi.org/10.1016/j.enpol.2024.113982).
+
 ### [Preparing for a mid-life crisis: Section 92A at 40](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262958)
-Bankes, Nigel and Andrew Leach (2023) [Preparing for a mid-life crisis: Section 92A at 40](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262958) *Alberta Law Review* 60(4), pages TBD. 
+Bankes, Nigel and Andrew Leach (2023) [Preparing for a mid-life crisis: Section 92A at 40](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262958) *Alberta Law Review* 60(4), pages 853-882. 
 
 ### [Canada's Oil Sands in a Carbon-Constrained World](https://doi.org/10.1080/11926422.2022.2120508)
 Leach, Andrew. (2022). [Canada's Oil Sands in a Carbon-Constrained World](https://doi.org/10.1080/11926422.2022.2120508), *Canadian Foreign Policy Journal, published online, November 2022. [Pre-publication version](cfpj.pdf).
