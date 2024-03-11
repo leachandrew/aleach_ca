@@ -1,0 +1,630 @@
+/*Ideas for title slide (aligned left, fa-icons, etc) from https://github.com/apreshill/talks/blob/master/orasa-big-magic/css/my-theme.css*/
+
+/* ----ADDING------------------------------------------------ */
+
+.tri-left {
+  width: 30%;
+  float: left;
+}
+
+.tri-middle {
+  width: 30%;
+  float: left;
+}
+
+.tri-right {
+  width: 30%;
+  float: left;
+}
+
+/* Create a highlighted class called 'hi'  */
+.hi {
+  font-weight: 600;
+  color: #FFDB05 !important;
+}
+.hi-green {
+  font-weight: 600;
+  color: #275d38 !important; /*U of A Green*/
+}
+.hi-gold {
+  font-weight: 600;
+  color: #FFDB05 !important; /*U of A Gold*/
+}
+/* Gold text */
+.gold {
+  color: #FFDB05 !important;
+}
+/* Slate ("darkslategrey") text */
+.slate {
+  color: #314f4f !important;
+}
+.green {
+  color: #275d38 !important; /*U of A Green*/
+}
+.grey {
+  color: #8AA19E !important;
+}
+.blue {
+  color: #0047AB !important;
+}
+.red {
+  color: #D7250E !important;
+}
+
+/* Grey text */
+.grey-mid {
+  color: #7f7f7f !important;
+}
+/* Grey text */
+.grey-vlight {
+  color: #e5e5e5 !important;
+}
+/* White text */
+.white {
+  color: #ffffff !important;
+}
+.black {
+  color: #000000 !important;
+}
+
+/* Mono-spaced font */
+.mono {
+  font-family: monospace;
+}
+/* Underline */
+.ul {
+  text-decoration: underline;
+}
+/* Overline */
+.ovl {
+  text-decoration: overline;
+}
+.st {
+  text-decoration: line-through;
+}
+/* Fraction */
+.top{
+  display:inline-block;
+}
+.bottom{
+  border-top:solid black 1px;
+  display:inline-block;
+  clear:left;
+}
+
+.remark-code-line-highlighted {
+  background-color: rgba(249, 39, 114, 0.5);
+}
+
+.bigger {
+  font-size: 125%;
+}
+
+.smaller {
+  font-size: 95%;
+}
+
+.smallest {
+  font-size: 85%;
+}
+
+.tiny {
+  font-size: 50%;
+}
+
+.pseudocode, .pseudocode-small {
+  font-family: monospace;
+  background: #f8f8f8;
+  border-radius: 3px;
+  padding: 10px;
+}
+.pseudocode-small {
+  font-size: 20px;
+}
+
+.super{
+  vertical-align: super;
+  font-size: 70%;
+}
+.sub{
+  vertical-align: sub;
+  font-size: 70%;
+}
+
+/* 2/3 left; 1/3 right */
+.more-left {
+  float: left;
+  width: 63%;
+}
+.less-right {
+  float: right;
+  width: 31%;
+}
+.more-right ~ * {
+  clear: both;
+}
+
+/* left code and right plot from https://www.garrickadenbuie.com/blog/decouple-code-and-output-in-xaringan-slides/ */
+
+.left-code {
+  color: #777;
+  width: 38%;
+  height: 92%;
+  float: left;
+}
+.right-plot {
+  width: 60%;
+  float: right;
+  padding-left: 1%;
+}
+
+ /* unvisited link, ualberta green */
+a:link {
+  color: #275d38;
+}
+
+/* visited link */
+a:visited {
+  color: #275d38;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FFDB05;
+}
+
+/* selected link */
+a:active {
+  color: #275d38;
+} 
+
+/* selected link */
+a:active {
+    color: #FFDB05;
+}
+
+/* -----FINISHED ADDING------------------------------------------ */ 
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 80%;
+}
+
+.remark-code-line-highlighted { background-color: #ffff88; }
+
+.inverse {
+  background-color: #23373B; /* 272822 */ 
+  color: #d6d6d6;
+  text-shadow: 0 0 20px #333;
+}
+
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #56B4E9;
+}
+
+/* Two-column layout */
+.left-column {
+  /* color: #777; */
+  width: 30%; /* changed from 20 */
+  height: 92%;
+  float: left;
+}
+
+.left-column h2:last-of-type, .left-column h3:last-child {
+  color: #000;
+}
+
+.right-column {
+  width: 68%; /* changed from 75 */
+  float: right;
+  padding-top: 1em;
+}
+
+.pull-left {
+  float: left;
+  width: 47%;
+}
+
+.pull-right {
+  float: right;
+  width: 47%;
+}
+
+.pull-right ~ * {
+  clear: both;
+}
+
+img, video, iframe {
+  max-width: 100%;
+}
+
+blockquote {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+
+.remark-slide table {
+  margin: auto;
+  color: #000;
+  background-color: #eee;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+  font-size: 26px;
+}
+
+.remark-slide table thead th { border-bottom: 2px solid #666; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot { background: #afafaf } /*  .remark-slide tr:nth-child(even) */
+
+
+/* Class of tables with no stripe - for regression outputs*/
+
+/* background must be set as same color as remark-slide-content below */ 
+.remark-slide .regtable tr:nth-child(even){ background: #F5F5F5} 
+
+@page { margin: 0; }
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
+
+/* Custom things start below - remark slides are the basic slides */ 
+
+.remark-slide-content {
+  background-color: #ffffff ; /* white background */
+  background-image: url("UA-COLOUR.png");
+  background-position: 96% 4%;
+  background-size: 10%;
+  color: #000000;
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 1.5;
+  padding: 0em 2em 1em 2em /* 1em first */
+}
+
+.remark-slide-number {
+  position: inherit;
+}
+
+.remark-slide-number .progress-bar-container {
+  position: absolute;
+  bottom: 0;
+  height: 4px;
+  display: block;
+  left: 0;
+  right: 0;
+}
+
+.remark-slide-number .progress-bar {
+  height: 100%;
+  background-color:#275d38;/*U of A Green*/
+}
+
+
+.blank {
+  background-color: #FFFFFF;
+  border-top: 0px solid #FFFFFF;
+}
+
+.blankgray {
+  background-color: #A59C94;
+  border-top: 0px solid #FFFFFF;
+}
+
+/* This is what gets used for titles alone */
+
+.inverse {
+  background-color:#FFFFFF;/*white*/
+  text-shadow: none;
+}
+
+.remark-slide-content > h1 {
+  font-variant: normal;
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: -20px;
+  margin-left: 0px;
+  color: #275d38; /* U of A Green headings */
+}
+
+.inverse > h1 {
+  /*font-variant: small-caps;*/
+  font-size: 60px;
+  color: #275d38;/*U of A Green*/
+}
+
+.remark-slide-content > inverse {
+width: 112px;
+height: 47px;
+border-bottom: 1px solid black;
+position: absolute;
+color: #23373B;
+}
+
+.remark-slide-content > h2, h3, h4 {
+  padding-top: -15px;
+  padding-bottom: 00px;
+  color: #1A292C;
+  text-shadow: none;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 00px;
+  margin-bottom: -10px;
+}
+
+.remark-slide-content > h2, .pull-left > h2, .pull-right > h2 {
+  font-size: 35px;
+}
+
+.remark-slide-content > h3, .remark-slide-content > h4,
+.pull-left > h3, .pull-left > h4, .pull-right > h3, .pull-right > h4 {
+  font-size: 30px;
+}
+
+
+div.slide {
+  z-index: 20;
+  margin: 30 30 30 30;
+  padding: 10;
+  border-width: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  line-height: 120%;
+  background-color: #ffffff;
+  background-image: url("UA-COLOUR.png");
+  background-position: 96% 4%;
+  background-size: 10%;}
+  
+.title-slide {
+  background-color: #ffffff;
+  background-image: url("UA-COLOUR.png");
+  background-position: 4.5% 4.5%;
+  background-size: 25%;
+    
+}
+
+
+.title-slide h3 {
+  font-weight: normal;
+  font-size: 30px;
+  color: #275d38;
+  text-align: left;
+  background-color: white; }
+  
+.title-slide h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: #275d38;
+  text-align: left;
+  background-color: white; }
+
+.title-slide h2 {
+  font-weight: normal;
+  font-size: 40px;
+  color: #275d38;
+  text-align: left;
+  background-color: white; }
+
+
+
+
+.remark-slide-number {
+  font-size: 13pt;
+  font-family: 'Fira Sans';
+  color: #272822;
+  opacity: 1;
+}
+.inverse .remark-slide-number {
+  font-size: 13pt;
+  font-family: 'Fira Sans';
+  color: #FAFAFA;
+  opacity: 1;
+}
+
+/* turns off slide numbers for title page: https://github.com/gnab/remark/issues/298 */
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+
+.img{
+  max-width: 100%;
+}
+
+
+.image-25 img {
+  width: 25;
+}
+
+.image-30 img {
+  width: 30%;
+}
+
+.image-40 img {
+  width: 40%;
+}
+
+.image-50 img {
+  width: 50%;
+}
+
+.image-60 img {
+  width: 60%;
+}
+
+.image-75 img {
+  width: 75%;
+}
+
+.image-200 img {
+  width: 200%;
+}
+
+.hl {
+  /* color: #d16666;
+  color: #ff3e41; */
+  color: #d14;
+  font-weight: 400;
+}
+
+.remark-inline-code {
+  background: #F5F5F5; /* lighter  # A59C94 */
+  /*background: #e7e8e2;  darker */
+  color: #5e81ac; /* #0099cc light blue */
+  border-radius: 3px;
+  padding: 4px;
+}
+
+.code10 .remark-code {
+  font-size: 10%;
+}
+
+.code20 .remark-code {
+  font-size: 20%;
+}
+
+.code30 .remark-code {
+  font-size: 30%;
+}
+
+.code40 .remark-code {
+  font-size: 40%;
+}
+
+.code50 .remark-code {
+  font-size: 50%;
+}
+
+.code60 .remark-code {
+  font-size: 60%;
+}
+
+.code70 .remark-code {
+  font-size: 70%;
+}
+
+.code80 .remark-code {
+  font-size: 80%;
+}
+
+.code90 .remark-code {
+  font-size: 90%;
+}
+
+.code100 .remark-code {
+  font-size: 100%;
+}
+
+.font10 {
+  font-size: 10%;
+}
+
+.font20 {
+  font-size: 20%;
+}
+
+.font30 {
+  font-size: 30%;
+}
+
+.font40 {
+  font-size: 40%;
+}
+
+.font50 {
+  font-size: 50%;
+}
+
+.font60 {
+  font-size: 60%;
+}
+
+.font70 {
+  font-size: 70%;
+}
+
+.font80 {
+  font-size: 80%;
+}
+
+.font90 {
+  font-size: 90%;
+}
+
+.font100 {
+  font-size: 100%;
+}
+
+.font110 {
+  font-size: 110%;
+}
+
+.font120 {
+  font-size: 120%;
+}
+
+.font130 {
+  font-size: 130%;
+}
+
+.font140 {
+  font-size: 140%;
+}
+
+.font150 {
+  font-size: 150%;
+}
+
+.font160 {
+  font-size: 160%;
+}
+.font170 {
+  font-size: 170%;
+}
+.font180 {
+  font-size: 180%;
+}
+.font190 {
+  font-size: 190%;
+}
+.font200 {
+  font-size: 200%;
+}
+
+.remark-code-line-highlighted     { background-color: #ffff88; } /* original ffff88 */
+
+.magenta { color: magenta; }
+
+.source {
+  font-size: 50%;
+  color: gray;
+  float: bottom;
+}
+
+
+/* 
+for nice numbered bullets 
+https://github.com/malcolmbarrett/kakashi/blob/master/kakashi.css 
+*/ 
+
+
+.content-box-ua {
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+     background-color:#7D9AAA;/*U of A Grey*/
+     color: #FFFFFF;
+     
+}
+
