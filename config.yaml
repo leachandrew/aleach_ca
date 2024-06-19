@@ -99,7 +99,7 @@ menu:
       weight: 2
     - name: Blog
       title: Blog
-      url: http://andrewleach.ca
+      url: https://andrewleach.ca
       weight: 2
     - name: Publications
       title: Academic Publications
