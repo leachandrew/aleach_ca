@@ -93,9 +93,9 @@ menu:
       title: About Andrew Leach
       url: /about/
       weight: 1
-    - name: Blog
-      title: Blog
-      url: http://andrewleach.ca
+    - name: Disclosure
+      title: Disclosure
+      url: /cid/
       weight: 2
     - name: Publications
       title: Academic Publications
