@@ -97,6 +97,10 @@ menu:
       title: Disclosure
       url: /cid/
       weight: 2
+    - name: Blog
+      title: Blog
+      url: http://andrewleach.ca
+      weight: 2
     - name: Publications
       title: Academic Publications
       url: /publications/
