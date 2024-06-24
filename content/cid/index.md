@@ -233,7 +233,7 @@ number_categories: 3 # set to zero to exclude
 
 <p><strong>Consulting activity:</strong></p>
 
-
+The University of Alberta encourages faculty members to remain current in their areas of teaching and research including through supplementary professional activities (SPA). So long as it does not conflict with our primary responsibilities, does not unduly compete with private sector entities, and is clearly disclosed to our academic units, consulting activities falls within the recognized SPA for a faculty member. I have been an economic policy and management consultant over most of my career. Activities are listed below by year:
 
 <p>In 2024 (to date) I have completed contracts for consulting work (paid and pro-bono) as follows:</p>
 
