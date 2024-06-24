@@ -95,7 +95,7 @@ menu:
       weight: 1
     - name: Disclosure
       title: Disclosure
-      url: /cid/
+      url: https://andrewleach.ca/conflict-of-interest-disclosure/
       weight: 2
     - name: Blog
       title: Blog
